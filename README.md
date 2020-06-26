@@ -1,4 +1,4 @@
-# MNIST
+# Number-Recognition-For--MNIST-Dataset-Using-PyTorch
 
 ## Introduction
 This project is made to learn Deep Learning using pytorch. Here we use MNIST dataset. MNIST is a dataset for numbers in different handwriting.
